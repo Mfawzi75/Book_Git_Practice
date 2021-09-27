@@ -1,0 +1,8 @@
+
+This the first page of chapter 1
+
+whole name: page1.txt
+
+Creat a new project
+Creat a new package called chapter _1
+Creat a new txt file called page1
