@@ -5,3 +5,6 @@ This page 2 of chapter 1
 our second file
 
 Now we have Git enabled
+
+
+Edited just for practice. Thanks Saim
